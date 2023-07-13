@@ -4,3 +4,4 @@
 First commit in feature/2 branch-First commit from feature/1 branch
 #ready forrelease
 #ready for new release
+Changes in feature
